@@ -1,2 +1,2 @@
 # Tibber
-This powershell script extracts Tibber GraphiQL
+This script extracts Tibber GraphiQL data to Powershell
